@@ -1,4 +1,4 @@
-//Criando uma agenda usando ponteiros
+/*Criando uma agenda usando ponteiros*/
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
